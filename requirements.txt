@@ -1,0 +1,4 @@
+Flask==2.0.2
+PyJWT==1.7.1
+flask_sqlalchemy
+gunicorn

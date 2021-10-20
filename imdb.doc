@@ -1,0 +1,16 @@
+ Flask use to built the apis
+
+admin user :{"email":"dsingh@gmail.com", "password":"fynd"}
+User	    : {"email":"user1@gmail.com", "password":"fynd"}
+
+Test cases file available in the repository test_case.py
+
+Deployed application on heroku : https://gentle-hollows-93642.herokuapp.com/login
+
+API's Documents : https://documenter.getpostman.com/view/6481855/UV5WCHsW
+
+Scale application:
+	1. I will use horizontal and vertical scaling on the server level
+	2. I will use properly indexing and partitioning in the table
+	3. Implement the cache system architecture
+	
